@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseflexadaitan
 - 👀 I’m interested in Software Archtecture and Engineering
-- 🌱 I’m currently learning IOT and ML
+- 🌱 Javascript, Typescript, Python and Java programmer
 - 💞️ I’m looking to collaborate on free-software projects
 - 📫 How to reach me jflexa@daitan.com
 
