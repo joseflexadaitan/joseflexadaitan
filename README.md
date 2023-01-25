@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Archtecture and Engineering
 - 🌱 Javascript, Typescript, Python and Java programmer
 - 💞️ I’m looking to collaborate on free-software projects
-- 📫 How to reach me jflexa@daitan.com
+- 📫 How to reach me jose.flexa@encora.com
 
 <!---
 joseflexadaitan/joseflexadaitan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
